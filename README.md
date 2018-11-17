@@ -1,7 +1,7 @@
 # MTCNN-TensorFlow - Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks based Counting
 Face Detection is an important problem statement, the idea is to detect face in an image containing people.
 
-MTCNN stands for Multi-task Cascaded Convolutional Neural Networks, originaly work can be reached at below link:
+original work can be reached at below link:
 
 https://arxiv.org/pdf/1604.02878.pdf
 
@@ -45,6 +45,3 @@ Uses Cases:
 ...more...
 
 # MIT License
-# 
-# Copyright (c) 2016 David Sandberg
-# 
