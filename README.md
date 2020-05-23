@@ -44,4 +44,4 @@ Uses Cases:
 4. Retail Stores
 ...more...
 
-# MIT License
+
