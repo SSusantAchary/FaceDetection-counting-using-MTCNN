@@ -1,4 +1,4 @@
-## Apology for depreciated code, will update with new one
+## Apology for depreciated code, will update with working algorithm
 
 # MTCNN-TensorFlow - Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks based Counting
 Face Detection is an important problem statement, the idea is to detect face in an image containing people.
